@@ -18,5 +18,5 @@ To run the project, do the following:
 
 
 Credits: 
-[www.youtube.com/watch?v=jESGMTcrhSY](https://www.geeksforgeeks.org/sudoku-backtracking-7/) </br>
-[www.geeksforgeeks.com](https://www.geeksforgeeks.org/sudoku-backtracking-7/)
+[Terranova Tech](https://www.youtube.com/watch?v=jESGMTcrhSY) </br>
+[GeeksforGeeks](https://www.geeksforgeeks.org/sudoku-backtracking-7/)
