@@ -1,4 +1,4 @@
-Sudoku Solver By: Omar Marouf (MrPrince22)
+Sudoku Solver By: Omar Marouf (MrPrince22) </br>
 The project consists of C++ for actually solving the puzzle, and python script calling the c++ file to start automating the solution (for more, watch the attached video) 
 - Make sure to have the following header files included in the C++ script:
 * iostream
