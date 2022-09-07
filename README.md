@@ -10,10 +10,10 @@ The project consists of C++ for actually solving the puzzle, and python script c
 * subprocess
 
 
-To run the project, do the following:
-1- first compile the c++ script(without actually running it)
-2- Run the Python script and enter the board row by row
-3- Switch to the Sudoku.com website and put the cursor on the top left square, and wait for few seconds and it will be solved.
+To run the project, do the following: </br>
+1- first compile the c++ script(without actually running it) </br>
+2- Run the Python script and enter the board row by row</br>
+3- Switch to the Sudoku.com website and put the cursor on the top left square, and wait for few seconds and it will be solved.</br>
 
 
 
